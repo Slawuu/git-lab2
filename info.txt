@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Autor: Imie Nazwisko
+=======
+Kurs: DevOps
+>>>>>>> decdaea (Dodano linie z nazwa kursu)
